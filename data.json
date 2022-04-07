@@ -1,0 +1,41 @@
+[
+  {
+    "user": {
+      "uid": 501,
+      "gid": 20,
+      "username": "farhanrafidsyauqi",
+      "homedir": "/Users/farhanrafidsyauqi",
+      "shell": "/bin/zsh"
+    },
+    "loadAverages": [1.990234375, 1.751953125, 1.75048828125],
+    "hostname": "MacBook-Pro-farhan.local",
+    "platform": "darwin",
+    "release": "21.4.0"
+  },
+  {
+    "user": {
+      "uid": 501,
+      "gid": 20,
+      "username": "farhanrafidsyauqi",
+      "homedir": "/Users/farhanrafidsyauqi",
+      "shell": "/bin/zsh"
+    },
+    "loadAverages": [1.83740234375, 1.7265625, 1.7412109375],
+    "hostname": "MacBook-Pro-farhan.local",
+    "platform": "darwin",
+    "release": "21.4.0"
+  },
+  {
+    "user": {
+      "uid": 501,
+      "gid": 20,
+      "username": "farhanrafidsyauqi",
+      "homedir": "/Users/farhanrafidsyauqi",
+      "shell": "/bin/zsh"
+    },
+    "loadAverages": [1.1689453125, 1.50439453125, 1.63671875],
+    "hostname": "MacBook-Pro-farhan.local",
+    "platform": "darwin",
+    "release": "21.4.0"
+  }
+]
